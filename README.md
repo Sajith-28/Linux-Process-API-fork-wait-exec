@@ -99,7 +99,7 @@ int main() {
 
 ```
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/6e8e9a80-a36d-4deb-98b1-5fcb0688c13e)
 
